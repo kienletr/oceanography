@@ -1,0 +1,1 @@
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/pangeo-data/pangeo-docker-images/2021.09.30?urlpath=git-pull%3Frepo%3Dhttps%253A%252F%252Fgithub.com%252Fkienletr%252Foceanography%26urlpath%3Dtree%252Foceanography%252F%26branch%3Dmain)
